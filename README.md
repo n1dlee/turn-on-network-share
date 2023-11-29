@@ -29,5 +29,5 @@ This batch file performs various system configuration tasks on a Windows system.
 2. **Run the Script:**
    - Execute the batch file on a Windows system.
 
-3. **Note:**
-   - Running scripts without understanding may have unintended consequences.
+>[!NOTE]
+Running scripts without understanding may have unintended consequences.
